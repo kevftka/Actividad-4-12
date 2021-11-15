@@ -68,10 +68,10 @@
 
 
     <div class="container">
-        <label for="uname"><b>Usuario</b></label>
+        <label class="uname"><b>Usuario</b></label>
         <input type="text" placeholder="Introduzca su Usuario" name="uname" required>
 
-        <label for="psw"><b>Contrasena</b></label>
+        <label class="psw"><b>Contrasena</b></label>
         <input type="password" placeholder="Introduzca su Contrasena" name="psw" required>
 
         <button type="submit">LOGIN</button>
